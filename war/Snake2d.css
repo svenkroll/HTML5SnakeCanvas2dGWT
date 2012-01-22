@@ -1,0 +1,61 @@
+/** Add css rules here for your application. */
+
+
+/** Example rules used by the template application (remove for your app) */
+h1 {
+  font-size: 2em;
+  font-weight: bold;
+  color: #777777;
+  margin: 40px 0px 70px;
+  text-align: center;
+}
+
+
+/** Most GWT widgets already have a style name defined */
+.gwt-DialogBox {
+  width: 400px;
+}
+
+.dialogVPanel {
+  margin: 5px;
+}
+
+.serverResponseLabelError {
+  color: red;
+}
+
+canvas {
+   border: solid 1px red; 
+   background-color: black;
+ }
+ 
+body {
+	background: #111; 
+ }
+ 
+ html, body div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kdb, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+   margin: 0;
+   padding: 0;
+   font-size: 100%;
+   vertical-align: baseline;
+   border: 0;
+   outline: 0;
+   background: transparent; 
+ }
+ 
+ ol, ul {
+   list-style: none; 
+ }
+ 
+ blockquote, q {
+   quotes: none; 
+ }
+ 
+ a, a:hover {
+   text-decoration: none; 
+ }
+ 
+ table {
+   border-collapse: collapse;
+   #border-spacing: none; 
+ }
